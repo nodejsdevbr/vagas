@@ -7,7 +7,7 @@ title: "[Cidade ou Remoto] Back-end Developer Node.JS @ Nome da Empresa"
 
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END DOTNET OU FULLSTACK COM Node.JS (JavaScript e/ou TypeScript) NO BACK-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA BACK-END Node.JS OU FULLSTACK COM Node.JS (JavaScript e/ou TypeScript) NO BACK-END!
 
 Não faça distinção de gênero no título da vaga.
 
