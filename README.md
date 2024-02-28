@@ -6,7 +6,7 @@
 
 Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github.
 
-Vagas disponíveis em https://github.com/nodesdevbr/vagas/issues
+Vagas disponíveis em https://github.com/nodejsdevbr/vagas/issues
 
 ### Cadastrando uma vaga
 
