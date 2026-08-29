@@ -8,6 +8,8 @@ Espaço para a divulgação de vagas para desenvolvedores via _issues_ do Github
 
 Vagas disponíveis em https://github.com/nodejsdevbr/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas da Node.js Brasil no openings.dev](https://openings.dev/communities/nodejsdevbr/vagas). Cada resultado continua levando à issue original neste repositório.
+
 ### Cadastrando uma vaga
 
 Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
